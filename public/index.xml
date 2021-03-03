@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Timothy A. Model</title>
+    <link>https://timothymodel.com/</link>
+    <description>Recent content in Home on Timothy A. Model</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://timothymodel.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://timothymodel.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timothymodel.com/contact/</guid>
+      <description> Email: foo@xyz.com Phone: +91-123123   Mailing Address  221B, Baker Street
+London
+United Kingdom
+  Social  Facebook Twitter Google+  </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://timothymodel.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timothymodel.com/about/</guid>
+      <description>About Me  I am a Quantitative Researcher at Fors Marsh Group, where I generate data-driven insights for government clients. I am also a Principal Investigator on the CoronaNet Research Project, where I previously served as Chief Data Scientist. In my academic career, I corruption in authoritarian contexts as a Havighurst Fellow at Miami University’s Havighurst Center for Russian and Post-Soviet Studies and Department of Global and Intercultural Studies. I earned my Ph.</description>
+    </item>
+    
+  </channel>
+</rss>
